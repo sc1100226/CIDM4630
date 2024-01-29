@@ -1,5 +1,5 @@
 # Changelog
-**Author: Scott Cavazos
+Author: Scott Cavazos
 
 All notable changes to this project will be documented in this file.
 
